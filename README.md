@@ -39,7 +39,7 @@ The goal is to evolve policies using GP that leverage external memory to compens
 
 - **With Memory**: Full primitive set including `mem_read` and `mem_write`.
 - **Without Memory**: Excludes memory primitives for baseline comparison.
-- **Fully Observable**: Uses all four observation variables (baseline from `genetic_programming_1.ipynb`).
+- **Fully Observable**: Uses all four observation variables (baseline from `genetic_programming_1_400611523.ipynb`).
 
 ## Results
 
